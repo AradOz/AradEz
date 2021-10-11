@@ -1,7 +1,7 @@
 ### Hi there, I'm Arad Ezra
 ## I'm a junior fullstack developer, eager for learning and developing my skills!!
-## 3'rd year student at "Magshimim" - computer science program for high school students
-## "Magshimim" site: - [About Magshimim](https://www.magshimim.cyber.org.il/about)
+### 3'rd year student at "Magshimim" - computer science program for high school students
+### "Magshimim" site: - [About Magshimim](https://www.magshimim.cyber.org.il/about)
 
 
 - 🌱 I’m currently learning fullstack developing with - Node.js and React.js
@@ -32,13 +32,6 @@
 
 <br />
 <br />
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="My GitHub Stats" src="https://github.com/AradEz?tab=stars" />
-
-</details>
 
 [instagram]: https://www.instagram.com/aradezra1/
 [linkedin]: https://www.linkedin.com/in/arad-ezra-60b19a20b/
